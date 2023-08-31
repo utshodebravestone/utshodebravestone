@@ -1,8 +1,8 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Utsho de Bravestone and I love to stare at the computer screen nonstop (which contains various colors of formatted text). 😑
-    I love building stuff, ranging from a simple website to compiler/interpreters. I also love learning things and thinking about things.
+    My name is Utsho de Bravestone and I love to stare at the computer screen nonstop (which contains various colors of formatted text)!
+    I also love building stuff, ranging from a simple website to compiler/interpreters. I also love learning things and thinking about them.
 </div>
 
 <br /><a href="mailto:utshodebravestone@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
@@ -112,8 +112,8 @@
 
 # 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utshodebravestone&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utshodebravestone&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utshodebravestone&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshodebravestone&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=utshodebravestone)
