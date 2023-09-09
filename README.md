@@ -1,7 +1,7 @@
-# 👋 Hey there
+# 👋 Hey there...
 
 <div align="justify">
-    My name is Utsho de Bravestone and I love to stare at the computer screen nonstop (which contains various colors of formatted text)!
+    My name is <b>Utsho de Bravestone</b> and I love to stare at the computer screen nonstop (which contains various colors of formatted text)!
     I also love building stuff, ranging from a simple website to compiler/interpreters. I also love learning things and thinking about them.
 </div>
 
@@ -9,7 +9,7 @@
 
 <br />
 
-# 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 
 <table>
   <tr>
@@ -110,7 +110,7 @@
 
 <br />
 
-# 📈 Stats
+## 📈 Stats
 
 <p align=center>
   <div align=center>
