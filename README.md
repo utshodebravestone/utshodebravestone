@@ -112,11 +112,11 @@
 
 ## 📈 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utshodebravestone&show_icons=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utshodebravestone&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utshodebravestone&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=utshodebravestone&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshodebravestone&langs_count=10&layout=donut-vertical&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utshodebravestone&langs_count=10&layout=donut-vertical&theme=react)
 
 ![Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=utshodebravestone&theme=react)
 
